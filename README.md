@@ -1,5 +1,5 @@
 # LinkedInScrapUsingAPI
-Proxyurl is used to scrape data of person from LinkedIn without logging into LinkedIn
+Proxycurl is used to scrape data of person from LinkedIn without logging into LinkedIn
 
 The response will be in json format which we can parse according to our requirements.
 
@@ -36,6 +36,6 @@ json -> to give proper indentation in fetched json data while saving it to json 
 
 That's all about the project, please comment if needed any help or facing any issue.
 
-**For security purpose, I'm not sharing the correct API key. Please login to proxyurl and create your own API Key**
+**For security purpose, I'm not sharing the correct API key. Please login to proxycurl and create your own API Key**
 
 
