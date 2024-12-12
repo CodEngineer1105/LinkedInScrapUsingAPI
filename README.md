@@ -27,4 +27,15 @@ Refer this below output:
 
 ![image](https://github.com/user-attachments/assets/7a34408f-42c5-43b1-9036-9195ad41d2e0)
 
+The use of different packages in code:
+requests -> to make an API call for get data
+pandas -> to create a dataframe of desired keys from fetched json data and to save that dataframe to excel file
+configparser -> to read the config file for paramters
+os -> to check if excel file already present (use: if file already present then instead of deleting and creating new file, I'll append my new data in same file)
+json -> to give proper indentation in fetched json data while saving it to json file
+
+That's all about the project, please comment if needed any help or facing any issue.
+
+**For security purpose, I'm not sharing the correct API key. Please login to proxyurl and create your own API Key**
+
 
