@@ -22,8 +22,9 @@ Steps:
 7. Copy the same Python code to your IDE (Eg: Visual Studio Code), in params keep only 'linkedin_profile_url' and remove rest of the parameters.
 8. Give proper api_key which you have copied in step 5, give proper 'linkedin_profile_url' value and run your code.
 9. You'll get json output containing all the information about the 'linkedin_profile_url' you have passed, you can parse the data and use it in your desired way by storing in Dataframe or excel file.
-
+10. I have used one config.ini file to pass important parameters like api_key, api_endpoints, excel file path to write my desired output keys data, json file path to dump the json output after fetching from linkedin.
 Refer this below output:
 
-![image](https://github.com/user-attachments/assets/77e2b9c0-3485-4c7d-8d73-4088529a932a)
+![image](https://github.com/user-attachments/assets/7a34408f-42c5-43b1-9036-9195ad41d2e0)
+
 
