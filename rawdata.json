@@ -1,0 +1,515 @@
+{
+    "public_identifier": "aadarsh-upadhyay-110500",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/aadarsh-upadhyay-110500/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241212%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241212T040553Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=98e8ef100c6e1242b440d479388b1ce5b070ac80d3df93607539d8772a7b925c",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/aadarsh-upadhyay-110500/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241212%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241212T040553Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c1e02ac6f676ee78e0c48f6ac53ab796a4cade7d7c5f39203b82da0f9011938b",
+    "first_name": "Aadarsh",
+    "last_name": "Upadhyay",
+    "full_name": "Aadarsh Upadhyay",
+    "follower_count": 1039,
+    "occupation": "Software Engineer at Zycus",
+    "headline": "Immediate Joiner || Software Engineer at Zycus",
+    "summary": null,
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2024
+            },
+            "company": "Zycus",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/zycus",
+            "company_facebook_profile_url": null,
+            "title": "Software Engineer",
+            "description": "Developed GenAI based Python Web application for transformation of different ERP data to standard template. Collectively contributed to Selenium based Python application for web scrapping. Reduced 40% manual efforts.",
+            "location": "Mumbai, Maharashtra, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/zycus/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241212%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241212T040553Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=76885448817ba693cc5eb42945b954752c27c8d1666250f09388ac922e7e38fb"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2023
+            },
+            "company": "Zycus",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/zycus",
+            "company_facebook_profile_url": null,
+            "title": "Associate Software Engineer",
+            "description": "Developed Python based applications using Panda, Numpy and Lambda, to extract data from PostgreSQL DB, manipulate and transform to Excel file. Given training of applications to around 40+ users. Created ~20 shell scripts for monitoring servers and applications, along with auto startup of services. Reduced 80% and 30% manual efforts for services check and data transformation respectively.",
+            "location": "Mumbai, Maharashtra, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/zycus/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241212%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241212T040553Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=76885448817ba693cc5eb42945b954752c27c8d1666250f09388ac922e7e38fb"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2022
+            },
+            "company": "Zycus",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/zycus",
+            "company_facebook_profile_url": null,
+            "title": "Trainee Software Engineer",
+            "description": "Worked as L2 Support to handle Java and Python based applications. Migrated complete JBPM, JBOSS and Apache services to AWS setup. Successfully completed ~20 production releases, servers, applications and DB maintenance.",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/zycus/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241212%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241212T040553Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=76885448817ba693cc5eb42945b954752c27c8d1666250f09388ac922e7e38fb"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Grasim Industries Limited | Pulp & Fibre",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grasim-industries-limited",
+            "company_facebook_profile_url": null,
+            "title": "Instrumentation and Control Engineer",
+            "description": "Worked as an intern in Calibration Department.",
+            "location": "Kalyan, Maharashtra, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/grasim-industries-limited/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241212%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241212T040553Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=55878fc9f3d22b24a0279ab4a72d77cd1b7bcbdc278ef61ef0332fb52cd9fd3c"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2023
+            },
+            "field_of_study": "Python",
+            "degree_name": "Complete Python Developer in 2023: Zero to Mastery",
+            "school": "Zero To Mastery Academy",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/64685953/",
+            "school_facebook_profile_url": null,
+            "description": "Skills: English \u00b7 Software Development Life Cycle (SDLC)",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ztm-academy/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241212%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241212T040553Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d10873522d285c29f9d1b75c5699ec08e61c5c98cabba488c2e77f5893598539",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2021
+            },
+            "field_of_study": "Electrical, Electronics and Communications Engineering",
+            "degree_name": "Bachelor of Engineering - BE",
+            "school": "Pillai College of Engineering",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/13365895/",
+            "school_facebook_profile_url": null,
+            "description": "Skills: English \u00b7 MATLAB \u00b7 Java \u00b7 CSTA \u00b7 AutoCAD \u00b7 Cascading Style Sheets (CSS) \u00b7 Linux \u00b7 Scilab \u00b7 LTSpice \u00b7 C (Programming Language) \u00b7 HTML",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/pillaiengineering/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241212%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241212T040553Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=b5dadfffe0742e301bf12c36d102d966855b940351d3a8183a2a95fe4a597ed5",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Hindi"
+    ],
+    "languages_and_proficiencies": [
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "Hindi",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Aryabhatta National Maths Competition - 2020",
+            "issuer": "All India Council for Technical Skill Development",
+            "issued_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "description": "Participant"
+        },
+        {
+            "title": "DST & Texas Instruments India Innovation Challenge Design Contest 2019",
+            "issuer": "Texas Instruments",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "description": "Participated in EV Efficient Design and Plan"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [
+        {
+            "name": "Aryabhatta National Maths Competition - 2020",
+            "score": "66.67%",
+            "date_on": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "description": null
+        }
+    ],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Ainxt",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Incubate IND",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "HTML & CSS Creating Forms",
+            "license_number": null,
+            "display_source": null,
+            "authority": "LinkedIn",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "HTML Essential Training",
+            "license_number": null,
+            "display_source": null,
+            "authority": "LinkedIn",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Learning Java (2018)",
+            "license_number": null,
+            "display_source": null,
+            "authority": "LinkedIn",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Oracle Database 19c : Basic SQL",
+            "license_number": null,
+            "display_source": null,
+            "authority": "LinkedIn",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Programming foundation : Databases",
+            "license_number": null,
+            "display_source": null,
+            "authority": "LinkedIn",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Soft skills",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Indian Institute of Technology, Bombay",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Workplace Communication",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Indian Institute of Technology, Bombay",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Effective use of IT for professional activities",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Indian Institute of Technology, Bombay",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "The Bits and Bytes of Computer Networking",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Coursera",
+            "url": null
+        }
+    ],
+    "connections": 1041,
+    "people_also_viewed": [
+        {
+            "link": "https://in.linkedin.com/in/arya-patil-2a45ab181",
+            "name": "Arya Patil",
+            "summary": "Analyst at Capgemini | GCP ACE",
+            "location": "Mumbai"
+        },
+        {
+            "link": "https://in.linkedin.com/in/mitalishinde",
+            "name": "Mitali Shinde",
+            "summary": "Trainee at Vistaar Technologies",
+            "location": "Mumbai"
+        },
+        {
+            "link": "https://in.linkedin.com/in/prajkta-shinde-3a1690143",
+            "name": "prajkta shinde",
+            "summary": "Academic Advisor, pune",
+            "location": "Pune"
+        },
+        {
+            "link": "https://in.linkedin.com/in/mayuresh-anvekar-04b32b214",
+            "name": "Mayuresh Anvekar",
+            "summary": "Student at Pillai College of Engineering",
+            "location": "Thane"
+        },
+        {
+            "link": "https://in.linkedin.com/in/ajay-magar",
+            "name": "Ajay Magar",
+            "summary": "Security Researcher l Django l React  | Full Stack developer |",
+            "location": "Mumbai"
+        },
+        {
+            "link": "https://in.linkedin.com/in/vishal-kanase-8b75671a2",
+            "name": "VISHAL KANASE",
+            "summary": "Student at Pillai College of Engineering",
+            "location": "Maharashtra, India"
+        },
+        {
+            "link": "https://in.linkedin.com/in/neha-kaidal-baa4561b8",
+            "name": "Neha Kaidal",
+            "summary": "Test Engineer at Marquis technology",
+            "location": "Mumbai"
+        },
+        {
+            "link": "https://in.linkedin.com/in/prajaktas19",
+            "name": "PRAJAKTA SHINDE",
+            "summary": "Student at Pillai College of Engineering",
+            "location": "Maharashtra, India"
+        },
+        {
+            "link": "https://in.linkedin.com/in/suraj-utekar-414375207",
+            "name": "Suraj Utekar",
+            "summary": "logistics  at Xpressbees (BusyBees Logistics Solutions Pvt. Ltd.)",
+            "location": "Mumbai"
+        },
+        {
+            "link": "https://in.linkedin.com/in/digvijay-mishra-46b551186",
+            "name": "Digvijay Mishra",
+            "summary": "Student at Pillai College of Engineering",
+            "location": "Mumbai Suburban district"
+        },
+        {
+            "link": "https://in.linkedin.com/in/pranay-patil-85334a1b3",
+            "name": "Pranay Patil",
+            "summary": "Student at Pillai College of Engineering",
+            "location": "Thane"
+        },
+        {
+            "link": "https://in.linkedin.com/in/vishwambhar-karnuk-5b45311a0",
+            "name": "Vishwambhar Karnuk",
+            "summary": "Student at Pillai College of Engineering",
+            "location": "Mumbai"
+        },
+        {
+            "link": "https://in.linkedin.com/in/adithya-prasad-78b8571b4",
+            "name": "Adithya Prasad",
+            "summary": "Student at Pillai College of Engineering",
+            "location": "Maharashtra, India"
+        },
+        {
+            "link": "https://in.linkedin.com/in/vinayak-guntuka-317287218",
+            "name": "vinayak guntuka",
+            "summary": "--",
+            "location": "Thane"
+        },
+        {
+            "link": "https://in.linkedin.com/in/domraj-nair-715457190",
+            "name": "Domraj Nair",
+            "summary": "Student at Pillai College of Engineering",
+            "location": "Mumbai Suburban district"
+        },
+        {
+            "link": "https://in.linkedin.com/in/samruddha-chavan-9637811b6",
+            "name": "Samruddha Chavan",
+            "summary": "Student at Pillai College of Engineering",
+            "location": "Thane"
+        },
+        {
+            "link": "https://in.linkedin.com/in/nishant-singh-6b58b4199",
+            "name": "Nishant Singh",
+            "summary": "Student at Pillai college  of engineering",
+            "location": "Thane"
+        },
+        {
+            "link": "https://in.linkedin.com/in/atharva-tawte-333356218",
+            "name": "Atharva Tawte",
+            "summary": "Student at Pillai College of Engineering",
+            "location": "Vasai Virar"
+        },
+        {
+            "link": "https://in.linkedin.com/in/shubham-jadhav-52445a208",
+            "name": "Shubham Jadhav",
+            "summary": "--",
+            "location": "Pune"
+        },
+        {
+            "link": "https://in.linkedin.com/in/rohit-redekar-81397518b",
+            "name": "Rohit Redekar",
+            "summary": "High School Diploma at Pillai College of Engineering",
+            "location": "Pune"
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Tech Mahindra Business Services is looking for HR professionals.Department : Human Resources.Location : Mumbai (Malad)Designation : HR\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Aadarsh Upadhyay"
+        },
+        {
+            "title": "Don\u2019t miss the Cluster 1 Finals of the Tata Crucible Corporate Quiz 2021, representing Andhra Pradesh and Telangana region, today at 6:30 pm IST\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Aadarsh Upadhyay"
+        },
+        {
+            "title": "In an effort to ensure #safety and #goodhealth of its employees and enable their safe vaccination against Covid-19, TietoEVRY India conducted a\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Aadarsh Upadhyay"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Aadarsh Upadhyay",
+            "link": "https://in.linkedin.com/in/aadarsh-upadhyay-b5215221b",
+            "summary": "Deputy Manager at Axis Bank",
+            "location": "Kakori"
+        },
+        {
+            "name": "Aadarsh Upadhyay",
+            "link": "https://in.linkedin.com/in/aadarsh-upadhyay-9b0177136",
+            "summary": ".",
+            "location": "Udaipur"
+        },
+        {
+            "name": "Aadarsh Upadhyay",
+            "link": "https://in.linkedin.com/in/aadarsh-upadhyay-721843168",
+            "summary": "Assistant Vice President-Barclays Payements Merchant Services Operations at Barclays",
+            "location": "Noida"
+        },
+        {
+            "name": "Aadarsh Upadhyay",
+            "link": "https://in.linkedin.com/in/aadarsh-upadhyay-620a66141",
+            "summary": "Business Development Manager at BYJU'S",
+            "location": "Lucknow"
+        },
+        {
+            "name": "Aadarsh Upadhyay",
+            "link": "https://in.linkedin.com/in/aadarsh-upadhyay-405048204",
+            "summary": "Student at Kipm college of engineering and technology management",
+            "location": "Basti"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/v2/C5607AQHKUvNKXqQy6w/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631002840410?e=1734577200&v=beta&t=D-O4PBsS7ZeUFZv0d4Tag4Env25ptxesR9KEPqGDBdg",
+            "name": "zerotomastery.io",
+            "url": "https://www.linkedin.com/groups/12121940"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/v2/C5607AQF0Sj_Om7hQ6A/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631435375052?e=1734577200&v=beta&t=O_2bKqZqexLRRIoo3vmS786suJAjESskBccX8gpkg98",
+            "name": "Infosys",
+            "url": "https://www.linkedin.com/groups/36143"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
